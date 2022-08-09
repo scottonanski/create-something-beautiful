@@ -14,4 +14,4 @@ I've also incorporated a JavaScript lerp function on mouse movements (and a bit 
 - Images sourced from Adobe Stock.
 - Creation inspired from the following [YouTube](https://www.youtube.com/watch?v=4l917h9FeZE) tutorial.
 
-Check out the Github Pages version [here](https://scottonanski.github.io/create-something-beautiful/).
+Demo it [here](https://scottonanski.github.io/create-something-beautiful/).
